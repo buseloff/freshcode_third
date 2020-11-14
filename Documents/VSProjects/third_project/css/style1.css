@@ -23,3 +23,22 @@ li {
   font-size: 20px;
   text-transform: uppercase;
 }
+body {
+  display: inline-block;
+}
+header {
+  height: 120px;
+  background-color: black;
+}
+footer {
+  height: 120px;
+  background-color: blue;
+}
+nav > ul {
+}
+
+nav > ul > li {
+  display: inline-block;
+  border: 1px solid blue;
+  padding: 10px;
+}
