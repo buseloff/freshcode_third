@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 50px;
+  color: rgba(0, 0, 255, 7);
+  text-align: center;
+}
+p {
+  color: red;
+  font-size: 14px;
+}
+.readheading {
+  color: indigo;
+}
+.second {
+  color: black;
+  font-style: italic;
+  font-size: xx-large;
+}
+.My {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-style: italic;
+  color: darkgreen;
+  font-size: xx-large;
+}
+#ip_1 {
+  color: blue;
+}
+.divClass {
+  font-size: 50;
+}
