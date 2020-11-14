@@ -1,33 +1,14 @@
-* {
-  margin: 0;
-  padding: 0;
-}
 h1 {
-  font-size: 50px;
-  color: rgba(0, 0, 255, 7);
   text-align: center;
-}
-p {
   color: red;
-  font-size: 14px;
 }
-.readheading {
-  color: indigo;
+h3 {
+  color: green;
 }
-.second {
-  color: black;
-  font-style: italic;
-  font-size: xx-large;
+span#creationData {
+  font-size: 10px;
+  color: grey;
 }
-.My {
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  font-style: italic;
-  color: darkgreen;
-  font-size: xx-large;
-}
-#ip_1 {
-  color: blue;
-}
-.divClass {
-  font-size: 50;
+article#personal {
+  margin-top: 50px;
 }
