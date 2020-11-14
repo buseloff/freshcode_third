@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+.myDivStyle {
+  border: 10px solid red;
+  width: 200px;
+  height: 25px;
+}
+#My {
+  display: none;
+}
