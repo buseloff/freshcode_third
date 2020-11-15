@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+
+p {
+  font-size: 50px;
+}
+
+div > p {
+  font-size: 50px;
+  color: blue;
+}
+
+div > article > p {
+  font-size: 10 px;
+  color: black;
+}
