@@ -11,8 +11,8 @@ div > p {
   color: blue;
 }
 
-div > article > p {
+article > p {
   font-size: 10 px;
-  color: black;
+  color: yellow;
   display: block;
 }
