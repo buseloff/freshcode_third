@@ -14,4 +14,5 @@ div > p {
 div > article > p {
   font-size: 10 px;
   color: black;
+  display: block;
 }
